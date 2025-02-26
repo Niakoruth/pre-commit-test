@@ -7,4 +7,4 @@ def greet(name: str) -> int:
 
 
 if __name__ == "__main__":
-    greet("world")
+    greet("World")
